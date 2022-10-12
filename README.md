@@ -6,4 +6,6 @@ Some description!
 
 Some someheader
 
-A new header for testing changes
+## Local Development
+
+1. Open index.html in your browser.
